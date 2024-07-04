@@ -22,8 +22,8 @@ public class UserController {
     }
 
     @GetMapping("/test2")
-    public String testApi(){
-        return "success.";
+    public String testApi2(){
+        return "TestApi successfull.";
     }
 
 
